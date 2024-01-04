@@ -2,7 +2,7 @@
 
 ## IDEA:
 <p>
-A generative AI for the creation of 3D gaming assets. <br>
+A generative AI for the creation of 3D gaming assets and gamebot. <br>
 Assets can be either avatars, wearables or game objects. <br>
 This generative neural AI has the task of creating the assets described above starting from a textual description. <br>
 The procedure will consist of three steps: <br>
